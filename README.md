@@ -9,7 +9,8 @@
 * **Target Badge Milestone:** 3-Star Problem Solving / Language Proficiency
 
 ### 🏆 Badge & Submission Verification
-*(Insert screenshots of your HackerRank 3-Star badge and accepted submissions here)*
+<img width="2558" height="1176" alt="Screenshot 2026-09-29 182454" src="https://github.com/user-attachments/assets/14dabe4d-500b-4a9e-8f5d-998ee76ef689" />
+
 ![HackerRank Badge Verification](screenshots/badge_verification.png)
 
 ---
